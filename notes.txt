@@ -1,0 +1,6 @@
+MANLEY POWER:
+
+- Removed top 8ve (put clars (S.Cnt, S.+1 Hn) down 8vb)
+- Swapped some bits of A.sax, Tpt.2 (Flg., Bar.1); swapped small bit of Tpt.2, Clar.2 (Flg., S.Hn)
+- Cnt.2 <-> Hn.1,3
+  Cnt.3 <-> Hn.2,4
