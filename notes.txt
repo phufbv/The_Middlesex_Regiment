@@ -4,3 +4,13 @@ MANLEY POWER:
 - Swapped some bits of A.sax, Tpt.2 (Flg., Bar.1); swapped small bit of Tpt.2, Clar.2 (Flg., S.Hn)
 - Cnt.2 <-> Hn.1,3
   Cnt.3 <-> Hn.2,4
+
+
+v1.2
+
+- Transposed all down major 4th
+- Cnt.2 <-> Hn.2,4
+  Cnt.3 <-> Hn.1,3
+- B.Trb. 8va
+- Eb bass removed lower voice
+- Removed some Sop.
